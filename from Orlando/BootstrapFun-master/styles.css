@@ -1,0 +1,48 @@
+
+/* We are not gods we are not kings we are only human */
+
+.bg-blue{
+    background-color:#0000FF;
+}
+
+
+.banner{
+	background-image:url('https://www.commandzer01.com/wp-content/uploads/2018/04/luke-chesser-48-unsplash.jpg');
+	text-align: center;
+    color: #fff;
+   
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.banner-text{
+	padding:200px 0 150px 0;
+}
+.banner-heading{
+	font-family: 'Lobster', cursive;
+	font-size: 75px;
+    font-weight: 700;
+    line-height: 100px;
+    margin-bottom: 30px;
+	color:#fff;
+}
+.banner-sub-heading{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 30px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-bottom: 50px;
+	color:#fff;
+}
+
+
+.text-intro{
+	width:90%;
+	margin:auto;
+	text-align:center;
+	padding-top:30px;
+}
